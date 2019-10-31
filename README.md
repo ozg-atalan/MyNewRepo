@@ -1,0 +1,2 @@
+# mynewrepo
+remote repository
